@@ -1,4 +1,4 @@
-# TCS iON Internship Project
+# TCS ION Internship Project
 
 A fully containerized Jenkins CI/CD pipeline deployed on AWS. This project integrates Docker, Jenkins, and AWS services to automate software delivery, ensuring scalability, efficiency, and reliability for modern DevOps workflows.
 

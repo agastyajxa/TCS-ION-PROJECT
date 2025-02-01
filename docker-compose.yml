@@ -3,4 +3,5 @@ services:
   weather-app:
     build: .
     ports:
-      - "5000:5000"
+#      - "5000:5000"
+      - "9000:5000"
